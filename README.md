@@ -17,7 +17,7 @@ This project involves the analysis of an Orders and Transaction database using S
 
 - [OrdersSchemaQuestions.pdf](OrdersSchemaQuestions.pdf): Project description and business questions.
 - [database.sql](database.sql): SQL code for the used database in the project.
-- [ordersschema.sql](ordersschema.sql): SQL queries answering the business questions.
+- [OrdersSchema.sql](OrdersSchema.sql): SQL queries answering the business questions.
 
 ## Usage
 
